@@ -14,12 +14,12 @@
 
 ---
 
-### 기술 스택(안드로이드)
+### 🪛 기술 스택(안드로이드)
 Tech Stack, Jetpack Compose, Clean Architecture, Multi-Module, MVVM, Dagger Hilt, Coroutine, Custom Plugin(Kotlin-DSL), Version Catalog, Flow, Data Store, Navigation, Coil Compose, Retrofit2, okHttp3
 
 ---
 
-### 프로젝트 구조도(안드로이드)
+### 🔍 프로젝트 구조도(안드로이드)
 ```
 ├── app
 |   ├── app
