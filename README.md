@@ -20,6 +20,7 @@ Tech Stack, Jetpack Compose, Clean Architecture, Multi-Module, MVVM, Dagger Hilt
 ---
 
 ### 프로젝트 구조도(안드로이드)
+```
 ├── app
 |   ├── app
 |   └── di
@@ -65,7 +66,7 @@ Tech Stack, Jetpack Compose, Clean Architecture, Multi-Module, MVVM, Dagger Hilt
     ├── splash
     ├── today
     └── yesterdaylist
-
+```
 ---
 
 ### 📄 API 명세서
