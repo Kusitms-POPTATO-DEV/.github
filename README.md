@@ -1,7 +1,5 @@
 ## 🥔 KUSITMS 30기 밋업프로젝트 H조 - Poptato팀  🥔
 
----
-
 ### 📘 ERD (Entity-Relationship Diagram)
 
 <img src="https://github.com/user-attachments/assets/1f3a7541-9f03-4649-bf6d-aed7028f7711" alt="ERD Diagram" width="70%"/>
