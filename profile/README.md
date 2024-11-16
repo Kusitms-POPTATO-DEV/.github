@@ -2,13 +2,15 @@
 
 ### 📘 ERD (Entity-Relationship Diagram)
 
-<img src="https://github.com/user-attachments/assets/1f3a7541-9f03-4649-bf6d-aed7028f7711" alt="ERD Diagram" width="70%"/>
+![image](https://github.com/user-attachments/assets/bd2b35bb-34a5-4102-8bab-bb6c3672023b)
+
 
 ---
 
 ### 🛠 System Architecture (백엔드)
 
-<img src="https://github.com/user-attachments/assets/212fe9e6-545b-4f56-b453-118824447fbe" alt="System Architecture Diagram" width="70%"/>
+![image](https://github.com/user-attachments/assets/8cf00b1a-18d6-4e94-8579-287ebd0a8e3e)
+
 
 ---
 
