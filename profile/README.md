@@ -2,14 +2,13 @@
 
 ### 📘 ERD (Entity-Relationship Diagram)
 
-![image](https://github.com/user-attachments/assets/bd2b35bb-34a5-4102-8bab-bb6c3672023b)
-
+![image](https://github.com/user-attachments/assets/f3a1216d-4738-4ecb-b3ff-0782c52facc6)
 
 ---
 
 ### 🛠 System Architecture (백엔드)
 
-![image](https://github.com/user-attachments/assets/8cf00b1a-18d6-4e94-8579-287ebd0a8e3e)
+![image](https://github.com/user-attachments/assets/aea59a0b-871d-4f06-99cc-02c6134aa3de)
 
 
 ---
@@ -70,5 +69,4 @@ Tech Stack, Jetpack Compose, Clean Architecture, Multi-Module, MVVM, Dagger Hilt
 ---
 
 ### 📄 API 명세서
-
-[🔗 API 명세서 바로가기](https://mountain-fang-96a.notion.site/API-7fc88f1d9d1f448f8926e959e1605cc9?pvs=4)
+https://documenter.getpostman.com/view/37135573/2sAY4yf1ou
